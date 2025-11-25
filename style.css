@@ -1,0 +1,59 @@
+*{
+    text-align: center;
+    background-color: #9d4edd;
+    /* universal selector */
+}
+h1{
+    /* Element Selector */
+    color: white;
+    background-color: #5a189a;;
+    padding: 15px;
+    font-size: 40px;
+}
+#external{
+    background-color: #240046;
+      /* id Selector */
+}
+.white{
+    /* Class selector */
+    color: white;
+    padding: 10px;
+    font-size: 18px;
+    text-transform: capitalize;
+  
+}
+div{
+    margin-top: 50px;
+    background-color: #5a189a;
+    height: 60px;
+    padding-top: 35px;
+    font-size: 20px;
+    color: #e0aaff;
+}
+
+   
+a{
+     font-size: 30px;
+    color: white;
+    background-color: #5a189a;
+}
+sub{
+    background-color: #c77dff;
+    font-weight: none;
+    font-size: 18px;
+    font-style: normal;
+}
+.information{
+    background-color: #c77dff;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
+.aboutme{
+    background-color: #c77dff;
+    font-size: 25px;
+    color: black;
+    font-weight: 900;
+    font-style: oblique;
+    
+}
